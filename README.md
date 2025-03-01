@@ -35,7 +35,10 @@ Highly skilled **Lead Software Engineer** with **12+** years of experience in de
   <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
+   <img src="https://github.com/anandbabu2201/anandportfolio/blob/7062b6b8ef81a64f0c835c51436513015942332c/static/spring.png" alt="mongoDB" alt="typescript" width="100" height="36" >  
+ <img src="https://github.com/anandbabu2201/anandportfolio/blob/7062b6b8ef81a64f0c835c51436513015942332c/static/mongoDB.jpeg" alt="mongoDB" alt="typescript" width="100" height="36" >  
+ <img src="https://github.com/anandbabu2201/anandportfolio/blob/7062b6b8ef81a64f0c835c51436513015942332c/static/mysql.png" alt="mongoDB" alt="typescript" width="100" height="36" >  
+ <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">  
   <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
  <img src="svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ" style="vertical-align:top; margin:4px">
 </p>
