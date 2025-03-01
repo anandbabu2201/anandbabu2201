@@ -12,7 +12,7 @@ Highly skilled **Lead Software Engineer** with **12+** years of experience in de
  I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything.
 - 🎯 Portfolio site: [Portfolio](https://anandbabu2201.github.io/anandportfolio/).
 - 🧠  I'm investing my time in AI, ML and Data science.
 - ### 📬 Find me at
